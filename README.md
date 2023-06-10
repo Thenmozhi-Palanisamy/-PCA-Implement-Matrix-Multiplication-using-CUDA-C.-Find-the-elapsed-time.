@@ -115,7 +115,7 @@ int main()
 
     return 0;
 }
-```
+
 ## Output:
 ``
 root@MidPC:/home/student/Desktop# nvcc first.cu
