@@ -24,9 +24,10 @@ Step 6:
 Terminate the program.
 
 ## program
+``
 Developed By: Thenmozhi p
 Register No.: 212221230116
-``
+`
 #include <stdio.h>
 #include <sys/time.h>
 
