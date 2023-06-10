@@ -3,6 +3,8 @@ Implement Matrix Multiplication using GPU.
 
 Aim:
 To implement matrix multiplication using GPU.
+
+
 Procedure:
 
 Step 1:
@@ -22,9 +24,9 @@ Measure elapsed time, print the result matrix and elapsed time, and free device 
 
 Step 6:
 Terminate the program.
-
-## program
 ``
+## program
+```
 Developed By: Thenmozhi p
 Register No.: 212221230116
 `
