@@ -112,9 +112,9 @@ int main()
 
     return 0;
 }
-``
+
 ## Output:
-``
+
 root@MidPC:/home/student/Desktop# nvcc first.cu
 root@MidPC:/home/student/Desktop# ./a.out
 Result Matrix:
@@ -147,7 +147,8 @@ Elapsed Time: 0.000037 seconds
                     0.00%  4.5900us         1  4.5900us  4.5900us  4.5900us  cuDeviceGetPCIBusId
                     0.00%  2.4000us         3     800ns     250ns  1.8100us  cuDeviceGetCount
                     0.00%     930ns         2     465ns     210ns     720ns  cuDeviceGet
- ``                   0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
+0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
+``
 ## output:
 ![image](https://github.com/Thenmozhi-Palanisamy/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/95198708/1c323e35-52a2-4693-be2e-8b00e7291e8e)
 
