@@ -26,7 +26,7 @@ Terminate the program.
 ## program
 Developed By: Thenmozhi p
 Register No.: 212221230116
-
+``
 #include <stdio.h>
 #include <sys/time.h>
 
@@ -114,6 +114,7 @@ int main()
 }
 ``
 ## Output:
+``
 root@MidPC:/home/student/Desktop# nvcc first.cu
 root@MidPC:/home/student/Desktop# ./a.out
 Result Matrix:
